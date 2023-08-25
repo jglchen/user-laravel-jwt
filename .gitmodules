@@ -1,0 +1,6 @@
+[submodule "laravel-auth-jwt"]
+	path = laravel-auth-jwt
+	url = https://github.com/jglchen/laravel-auth-jwt
+[submodule "user-next-jwt"]
+	path = user-next-jwt
+	url = https://github.com/jglchen/user-next-jwt
